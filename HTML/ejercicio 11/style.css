@@ -1,0 +1,9 @@
+p,h1,h2,h3{
+    font-family: 'Roboto', sans-serif;
+}
+h3,h2{
+    font-size: 23px;
+}
+a{
+    text-decoration: none;
+}

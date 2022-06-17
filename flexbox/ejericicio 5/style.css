@@ -1,0 +1,80 @@
+
+body{
+    height: 100vh;
+}
+.padre{
+    display: flex;
+    flex-direction: column;
+}
+.x{
+    background-color: rgb(189, 189, 189);
+    height: 150px;
+    width: 350px;
+    margin: 1%;
+}
+.z{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+.fila1{
+    margin-top: 20px;
+}
+.fila3{
+    margin-top: 150px;
+    
+}
+p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+}
+.A{
+    box-shadow: -4px -4px 2px 1px rgb(39, 39, 39);
+}
+.B{
+    box-shadow: -4px -4px 10px 1px rgb(39, 39, 39);
+}
+.C{
+    box-shadow: -10px -10px 0px 10px rgb(39, 39, 39);
+}
+.D{
+    box-shadow: -10px -10px 10px 10px rgb(39, 39, 39);
+}
+.E{
+    box-shadow: 0px 0px 0px 3px rgb(39, 39, 39);
+}
+.F{
+    box-shadow: 0px 0px 10px 5px rgb(39, 39, 39);
+}
+.G{
+    box-shadow:inset -4px -4px 2px 1px rgb(39, 39, 39);
+}
+.H{
+    box-shadow:inset -4px -4px 10px 1px rgb(39, 39, 39);
+}
+.I{
+    box-shadow:inset -10px -10px 0px 10px rgb(39, 39, 39);
+}
+.J{
+    box-shadow:inset -10px -10px 10px 10px rgb(39, 39, 39);
+}
+.K{
+    box-shadow:inset 0px 0px 0px 3px rgb(39, 39, 39);
+}
+.L{
+    box-shadow:inset 0px 0px 10px 5px rgb(39, 39, 39);
+}
+/* box-shadow: 
+1er valor: offset x (desplazamiento de izq.  a dcha.)
+2do valor: offset y (desplazamiento de arriba hacia abajo)
+3er valor: blur-radius: radio de la difuminación
+4to valor: spread-radius: cuánto abarca la sombra
+5to valor: color 
+puede ser sólido (tipo black, green, pink) o con transparencia usando rgba. Ejemplo: rgba(0, 0, 0, 0.2)
+inset: propiedad que hace que la sombra se haga desde el borde para adentro */
+
+
+

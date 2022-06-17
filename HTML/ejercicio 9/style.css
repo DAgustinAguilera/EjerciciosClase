@@ -1,0 +1,17 @@
+p, h1, h2, h3{
+    font-family: 'Roboto', sans-serif;
+}
+.titulo{
+    font-size: 20px;
+}
+.fecha{
+    font-size: 10px;
+    color: gray;
+}
+.menos{
+    color: red;
+}
+.mas{
+    color: green;
+}
+

@@ -1,0 +1,30 @@
+.fondo{
+    background-color: #212121;
+}
+
+h1{
+    color: #FAFAFA;
+    font-size: 120px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 800;
+
+}
+p{
+    color: #FAFAFA;
+    font-size: 48px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+}
+.ot{
+    color: #a2a3bb;
+}
+.gay{
+    color: #9395d3;
+}
+.lab{
+    color: #b3b7ee;
+}
+.nombre{
+    color: #888bb1;
+
+}
